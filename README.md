@@ -1,4 +1,4 @@
-# projective_circles
+# Projective Geometry - Circles
 Experiments involving projective geometry of circles and how that affects computer vision tasks.
 
 <p align="center">
